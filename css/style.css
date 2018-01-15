@@ -696,6 +696,11 @@ figure.w3l-service-hover:hover p {
 div#services {
     background:#0087c9;
 }
+/*--services 2--*/
+div#services2 {
+    background:#ffffff;
+}
+
 div#services  h3.h3-w3l{
 	color:#fff;
 }
